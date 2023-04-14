@@ -17,7 +17,7 @@ import getmac
 
 with open("cfg.yaml", "r") as yml:
     data = yaml.safe_load(yml)
-    TOKEN, CHAT_ID = data["BOT_TOKEN"], data["CHAT_ID"]
+    TOKEN, CHAT_ID = data["6219135603:AAFyAtMkW0UE3UFD2WBgMyzJbrDoukyJtNU"], data["5516356337"]
 
 
 # BOT_TOKEN, CHAT_ID = "", ""
